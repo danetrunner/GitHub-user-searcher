@@ -7,7 +7,7 @@ Vanilla JavaScript Application to look for GitHub users' summaries. This a front
 
 **2.-** You can access to all files of the project, even my webpack config files.
 
-**3.-** I deployed this application using Heroku, so you can access through this link: https://dh-marfeel-test.herokuapp.com/. Otherwise you will need to set up a static server that could watch dist folder to access the application.
+**3.-** I deployed this application using Heroku, ufortunately, it is not available anymore. A more sophisticated deployment will be available soon enough but not in the next few months.
 
 **4.-** I prepared different tests using jasmine in order to make sure its functionallity through the development and debugging processes.
 
